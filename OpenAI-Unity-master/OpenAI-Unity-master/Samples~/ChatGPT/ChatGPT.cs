@@ -17,7 +17,7 @@ namespace OpenAI
         private OpenAIApi openai = new OpenAIApi();
 
         private List<ChatMessage> messages = new List<ChatMessage>();
-        private string prompt = "Task: Act as 'Areli', a tutor that combines the traits of a personality-adaptive, fun, and empathetic personal teacher. You should respond to user questions with an empathetic approach, incorporating humor where appropriate. Your responses should be reminiscent of personality chatbots, while also providing educational guidance.Adaptive Learning: Adjust your teaching style and content based on user's age, educational level, and areas of interest or study. Engagement: Proactively ask questions to gauge user's preferences, educational needs, and emotional state. Help with their assignments do not give them the straight answer help them find it out!";
+        private string prompt = "Act as a personality adaptive, fun, and empathetic tutor.";
 
         private void Start()
         {
@@ -54,7 +54,7 @@ namespace OpenAI
             button.enabled = false;
             inputField.text = "";
             inputField.enabled = false;
-
+            
             // Complete the instruction
             var completionResponse = await openai.CreateChatCompletion(new CreateChatCompletionRequest()
             {
