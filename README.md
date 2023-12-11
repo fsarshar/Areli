@@ -1,6 +1,5 @@
 
-# Areli
-Your personal AI tutor
+# Areli, Your personal AI tutor
 
 ## Overview
 
