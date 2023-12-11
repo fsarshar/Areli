@@ -1,6 +1,4 @@
-Certainly! Below is a template for a basic README.md file for a Unity project with an ML agent using the ML-Agents Toolkit. Feel free to customize it based on the specifics of your project:
 
-```markdown
 # Unity ML-Agents Project
 
 ## Overview
@@ -19,7 +17,7 @@ This Unity project incorporates machine learning using the [ML-Agents Toolkit](h
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-ml-agents-project.git
+   git clone https://github.com/fsarshar/Areli.git
    ```
 
 2. Open the Unity project in the Unity editor.
@@ -29,9 +27,8 @@ This Unity project incorporates machine learning using the [ML-Agents Toolkit](h
 ## Project Structure
 
 - **Assets/:** Unity assets for the project.
-- **Assets/MLAgents/:** ML-Agents specific scripts and configurations.
+- **Assets/MLAgents/:** ML-Agent specific scripts and configurations.
 - **Scenes/:** Unity scene files.
-- **Scripts/:** Your custom scripts for defining agent behavior and interactions.
 
 ## Training the Agent
 
@@ -61,6 +58,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) - Thank you for providing a powerful framework for integrating machine learning into Unity projects.
 
-```
 
-Make sure to replace placeholders like `your-username`, `your-ml-agents-project`, and add any additional sections or details relevant to your specific project. Additionally, include a license file (e.g., LICENSE) for your project and update the Acknowledgments section with any necessary credits or attributions.
