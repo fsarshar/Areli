@@ -1,5 +1,5 @@
 
-# Unity ML-Agents Project
+# Areli, your personal AI tutor
 
 ## Overview
 
