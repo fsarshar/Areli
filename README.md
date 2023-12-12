@@ -52,7 +52,7 @@ Feel free to contribute to the project by creating issues or submitting pull req
 
 
 ## Experiments
-<iframe width="560" height="315" src="https://youtu.be/DSQBrqG-kaI" frameborder="0" allowfullscreen></iframe>
+[![Video Title](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/DSQBrqG-kaI "Video Title")
 
 ## Acknowledgments
 
