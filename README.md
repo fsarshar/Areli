@@ -53,6 +53,11 @@ Feel free to contribute to the project by creating issues or submitting pull req
 
 ## Experiments
 [![Alt text](http://img.youtube.com/vi/DSQBrqG-kaI/0.jpg)](https://youtu.be/DSQBrqG-kaI)
+[![Alt text](http://img.youtube.com/vi/yM7asTxMH0M/0.jpg)](https://youtu.be/yM7asTxMH0M)
+[![Alt text](http://img.youtube.com/vi/oBu7aC65kdY/0.jpg)](https://youtu.be/oBu7aC65kdY)
+[![Alt text](http://img.youtube.com/vi/VHdn4Twtx88/0.jpg)](https://youtu.be/VHdn4Twtx88)
+[![Alt text](http://img.youtube.com/vi/gdiagJQLkqE/0.jpg)](https://youtu.be/gdiagJQLkqE)
+[![Alt text](http://img.youtube.com/vi/N2GppfgdEvY/0.jpg)](https://youtu.be/N2GppfgdEvY)
 
 
 ## Acknowledgments
