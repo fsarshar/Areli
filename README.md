@@ -52,7 +52,7 @@ Feel free to contribute to the project by creating issues or submitting pull req
 
 
 ## Experiments
-[![Watch the Video](https://img.youtube.com/vi/placeholder/0.jpg)](https://drive.google.com/file/d/183uyAXkEJtvfq9wvYgP9Jz7KcFfYlC51/view?usp=sharing "Watch the Video")
+[Link to Video](https://drive.google.com/file/d/183uyAXkEJtvfq9wvYgP9Jz7KcFfYlC51/view?usp=sharing)
 
 ## Acknowledgments
 
