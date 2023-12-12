@@ -53,6 +53,9 @@ Feel free to contribute to the project by creating issues or submitting pull req
 
 ## Experiments
 [![Video Title](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/DSQBrqG-kaI "Video Title")
+[![Alt text](http://img.youtube.com/vi/DSQBrqG-kaI/0.jpg)](https://youtu.be/DSQBrqG-kaI)
+[![Alt text for the image](URL_of_the_image)](https://youtu.be/DSQBrqG-kaI)
+
 
 ## Acknowledgments
 
